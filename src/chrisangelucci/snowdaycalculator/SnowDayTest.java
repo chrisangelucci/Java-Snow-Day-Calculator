@@ -14,5 +14,5 @@ public class SnowDayTest {
 			System.out.println("Something went wrong!");
 		}
 	}
-	
+	// I hate you
 }
